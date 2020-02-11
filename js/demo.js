@@ -10,7 +10,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
     function initHeader() {
         width = window.innerWidth;
-        height = 1300;
+        height = 1450;
         target = {x: width/2, y: height/2};
 
         largeHeader = document.getElementById('large-header');
