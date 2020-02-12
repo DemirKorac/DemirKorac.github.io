@@ -34,6 +34,9 @@
 .main-title .thin {
    font-weight: 200;
 }
+.footer_icon:hover{
+  transform: scale(1.2);
+}
 
 @media only screen and () {
    .demo .main-title {
